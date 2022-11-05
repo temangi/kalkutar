@@ -1,0 +1,13 @@
+input{
+    width: 93px;
+}
+.pich4ers{
+    margin-top: 10vh;
+    height: 20vh;
+    width: 20vh;
+    border: 1px solid black;
+}
+body{
+    background-image: url(https://wallpaper.dog/large/20352933.jpg);
+    background-size: cover;
+}
